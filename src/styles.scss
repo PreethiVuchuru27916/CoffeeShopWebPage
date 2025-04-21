@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+$primary-color: #ece7e0;
+$secondary-color: #3b312b;
+
+body {
+    margin: 0px;
+    padding: 0px;
+    color: $secondary-color;
+    background-color: $primary-color;
+}
