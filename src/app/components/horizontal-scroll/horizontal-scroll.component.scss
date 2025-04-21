@@ -12,7 +12,7 @@ $secondary-color: #3b312b;
     font-size: 30px;
     overflow: hidden;
     width: 100%;
-    // animation: scroll 20s linear infinite;
+    animation: scroll 20s linear infinite;
 }
 
 .scroll-2 {
@@ -24,7 +24,7 @@ $secondary-color: #3b312b;
     top: 0;
     position: absolute;
     width: 100%;
-    // animation: scroll-next 20s linear infinite;
+    animation: scroll-next 20s linear infinite;
 }
 
 @keyframes scroll {
